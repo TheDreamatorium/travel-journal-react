@@ -16,7 +16,7 @@ export default function App() {
         <div>
             <Navbar/>
             <div className="destinations">
-                {/* {items} */}
+                {items}
             </div>
         </div>
     )
